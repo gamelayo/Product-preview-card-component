@@ -22,7 +22,7 @@ main {
   justify-content: center;
 }
 .image-container {
-  width: 17rem;
+  width: 20rem;
   height: 100%;
 }
 .image-container img {
@@ -31,7 +31,7 @@ main {
   border-radius: 10px 0 0 10px;
 }
 .text-container {
-  width: 17rem;
+  width: 20rem;
   display: flex;
   flex-direction: column;
   gap: 20px;
@@ -63,7 +63,8 @@ p {
 .num .first {
   font-family: "Fraunces", serif;
   font-weight: 700;
-  font-size: 20px;
+  font-size: 27px;
+  color: hsl(158, 36%, 37%);
 }
 .num .second {
   font-size: 14px;
@@ -72,7 +73,7 @@ p {
 
 button {
   width: 100%;
-  padding: 9px 20px;
+  padding: 12px 20px;
   color: white;
   border-radius: 10px;
   border: none;
