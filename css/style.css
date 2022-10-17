@@ -49,10 +49,12 @@ p {
   line-height: 20px;
   font-family: "Montserrat", sans-serif;
   font-weight: 500;
+  color: hsl(228, 12%, 48%);
 }
-.text-container span {
+.perfume {
   font-family: "Montserrat", sans-serif;
   font-weight: 500;
+  color: hsl(228, 12%, 48%);
 }
 .num {
   width: 80%;
@@ -69,6 +71,7 @@ p {
 .num .second {
   font-size: 14px;
   text-decoration: line-through;
+  color: hsl(228, 12%, 48%);
 }
 
 button {
